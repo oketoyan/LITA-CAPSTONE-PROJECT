@@ -1,11 +1,17 @@
 # PROJECT OUTLINE 
 
 ##Project Outline
+
 [LITA-CAPSTONE-PROJECT](#LITA-CAPSTONE-PROJECT)
+
 [Project 1: Sales Data](#Project-1-:-Sales-Data)
-[Recommendations:](#Recommendations:)
+
+[Recommendations:](#Recommendations)
+
 [Project 2: Customer Data](#Project-2:-Customer-Data)
+
 [Recommendations:](#Recommendations:)
+
 [Conclusion](#Conclusion)
 
 # LITA-CAPSTONE-PROJECT
