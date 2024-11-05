@@ -4,6 +4,8 @@
 
 [LITA-CAPSTONE-PROJECT](#LITA-CAPSTONE-PROJECT)
 
+[Project Overview](#Project-Overview)
+
 [Project 1: Sales Data](#Project-1-Sales-Data)
 
 [Recommendations:](#Recommendations)
@@ -15,8 +17,10 @@
 [Conclusion](#Conclusion)
 
 # LITA-CAPSTONE-PROJECT
-“What message is this? What is LITA?” this was my thought when I open the url link to join the moving train of Ladies in Tech Africa in celebration of Mummy FOlu Adeboye. I have always wanted Data Analysis so it was not a big deal in choosing my options not knowing I have a whole lot waiting for me.
-Days has passes, weeks and even months and The Incubator Hub has really helped me in becoming a better version of myself. As part of the requirements to further in this awesome training, a project titled ‘LITA CAPSTONE’ has been given to everyone of us to practice and showcase what we have learnt so far.
+“What message is this? What is LITA?” this was my thought when I open the url link to join the moving train of Ladies in Tech Africa in celebration of Mummy Folu Adeboye. I have always wanted Data Analysis so it was not a big deal in choosing my options not knowing I have a whole lot waiting for me.
+Days has passed, weeks and even months; The Incubator Hub has really helped me in becoming a better version of myself. As part of the requirements to further in this awesome training, a project titled ‘LITA CAPSTONE’ has been given to everyone of us to practice and showcase what we have learnt so far.
+
+## Project Overview
 LITA CAPSTONE projects has two datasets – SalesData and CustomerData, it is required that you use the three tools learnt in the training session- MSExcel, SQL and PowerBI, to get tangible deductions and recommendations from the data sets. After which you populate it on the github and submit. There is always a room for continuous learning, corrections, growing and getting better. I think I have put in some efforts in getting my project ready if not the best I could do, I participated in my own quota.
 
 ###  Project 1: Sales Data
