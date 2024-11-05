@@ -10,7 +10,7 @@
 
 [Project 2: Customer Data](#Project-2-Customer-Data)
 
-[Recommendations:](#Recommendations)
+[Recommendations 2:](#Recommendations-2)
 
 [Conclusion](#Conclusion)
 
@@ -61,7 +61,7 @@ Analysis also revealed that Basic subscription type has customers in only the No
 
 ![subscription type by region sql](https://github.com/user-attachments/assets/a0cb2f02-c669-45f3-a00d-f431a0f4b581)
 
-### Recommendations: 
+### Recommendations 2: 
 1.	The company should look into promoting the benefits of the different subscription types in all the regions.
 2.	A promo should be done to make the customers see and use the other subscription types to avoid monopoly of subscription types in regions.
 3.	A discount should be given at the end of each year to customers to appreciate and encourage to subscribe early and continuously.
