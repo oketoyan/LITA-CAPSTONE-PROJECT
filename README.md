@@ -13,14 +13,19 @@ The goal is to produce an interactive Power BI  dashboard that highlights these 
 The SalesData file consist of 7 columns (OrderID	, CustomerId, Product,Region,  OrderDate, Quantity, Unit Price)	 having 1,000 rows. To get some details I generated extra 2 columns (Revenue and Sales Category). 
 From the dataset, 6 products are on sale (Gloves, Hat, Jacket, Shirt, Shoes and Socks) and all these products are doing well in all regions based on the analysis shown below In MSExcel and SQL: 
                                 
- From the analysis done it was observed that by region , Southern Part has the Highest revenue and the Western Part has the lowest revenue as shown below:
-     
+      ![TotalSales ByProduct excel](https://github.com/user-attachments/assets/56ec7080-d9ee-43b5-937f-07fa775d0f8f)
+![Product by TotalRevenue](https://github.com/user-attachments/assets/42e73d82-a393-440f-b709-bd620f7d4398)
+
+From the analysis done it was observed that by region , Southern Part has the Highest revenue and the Western Part has the lowest revenue as shown below:
+
+![totalsales by region excel](https://github.com/user-attachments/assets/05fe786c-dd08-4967-a375-025c7ce98a9b)
+![totalsales by region sql](https://github.com/user-attachments/assets/68f6c9d6-c295-45d1-bfda-7e81cc6835a3)
+
 ### Recommendations:
 I recommend that the company:
 1.	Do a discount sales to appreciate the customers who has continually patronize the company,
 2.	look into adding more products for children if all their products focused mainly on adults
 3.	look into adding more of female wears too as they are into wears clearly
-
 
 
 
